@@ -91,7 +91,7 @@ header ul li + li {
   margin-top: 10px;
   font-size: 80px;
   font-weight: 700;
-  color: var(--app-dark-bg);
+  color: var(--app-white);
   text-transform: capitalize;
   font-family: "Rubik Vinyl", cursive;
 }
