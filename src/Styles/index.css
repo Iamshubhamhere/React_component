@@ -76,6 +76,7 @@ header ul li {
 header ul li button {
   font-size: 22px;
   background-color: rgb(255 255 255 /0.01);
+  cursor: pointer;
 }
 
 header ul li + li {
